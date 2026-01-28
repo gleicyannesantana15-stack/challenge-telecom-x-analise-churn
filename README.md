@@ -58,3 +58,7 @@ Conclusões e recomendações
 🚀 Conclusão
 
 Este challenge permitiu analisar os fatores que impactam a evasão de clientes e propor estratégias baseadas em dados para apoiar decisões de negócio.
+
+Este projeto permitiu analisar os principais fatores associados à evasão de clientes da Telecom X, evidenciando padrões relacionados ao tipo de contrato, tempo de permanência e valores cobrados.
+
+Os insights obtidos podem apoiar a tomada de decisão estratégica, contribuindo para o desenvolvimento de ações de retenção mais eficazes e orientadas por dados.
